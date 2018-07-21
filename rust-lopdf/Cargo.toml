@@ -1,0 +1,7 @@
+[package]
+name = "lopdf-sandbox"
+version = "0.1.0"
+authors = ["Satoshi Kojima <skoji@mac.com>"]
+
+[dependencies]
+lopdf = "0.15.1"
